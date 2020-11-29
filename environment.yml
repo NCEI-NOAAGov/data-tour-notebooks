@@ -1,0 +1,15 @@
+name: ncei
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.7.4
+  - matplotlib==3.1.3
+  - cartopy
+  - numpy
+  - requests
+  - xarray
+  - pip
+  - pip:
+      - notebook
+      - netCDF4
