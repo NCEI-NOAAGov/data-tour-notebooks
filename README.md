@@ -23,11 +23,7 @@ conda env create -f environment.yml
 ### 1. Binder
 Clicking the "Launch Binder" button at the top of this README will launch a Jupyterhub environment in your browser with all of the required packages preinstalled. In this environment, you can open, run, and modify all of the included Data Tour Notebooks, as well as create your own.
 ### 2. Colaboratory
-Clicking the "Open in Colab" button at the top of this README will launch a Google Colaboratory environment in your browser. As in Binder, you can open, run, and modify any of the included Data Tour Notebooks. You may need to manually install the `cartopy` and `netCDF4` packages.
- ```
-!apt-get -qq install python-cartopy python3-cartopy
-!pip install netCDF4
-```
+Clicking the "Open in Colab" button at the top of this README will launch a Google Colaboratory environment in your browser. As in Binder, you can open, run, and modify any of the included Data Tour Notebooks. There is a cell under the heading "Google Colaboratory Preparation" you will need to uncomment and run for the Notebook to successfully run Google in Colaboratory.
 
 ### 3. Local repository
 This repo must be installed before using locally. Activate the conda environment, and open Jupyter notebooks.
