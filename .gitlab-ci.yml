@@ -1,0 +1,5 @@
+detect-secrets:
+  image: artifacts.ncei.noaa.gov/ncei/base:alma9
+  script:
+    - pip3 install detect-secrets -i https://artifacts.ncei.noaa.gov/artifactory/api/pypi/pypi-remote/simple
+    - cd ./storm-events-database && detect-secrets scan
