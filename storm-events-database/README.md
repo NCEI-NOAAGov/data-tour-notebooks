@@ -1,3 +1,5 @@
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCEI-NOAAGov/data-tour-notebooks/blob/github/)
+
 ### Storm Event Database Data Tour Notebook
 
 Python notebook for interacting with and visualizing the Storm Events Database dataset from the NOAA National Centers for Environmental Information (NCEI) using Python.
@@ -8,7 +10,7 @@ https://console.cloud.google.com/storage/browser/noaa-ncei-ipg/notebooks/data/st
 Note: You will need a Google Account to view this link.
 
 ### Usage
-This notebook is designed to be run in Google Colab. Clicking the "Open in Colab" button at the top of this README will launch a Google Colaboratory environment in your browser. You can open, run, and modify this notebook. You may also download this notebook from GitHub to your local machine and upload the notebook to your Google Colab account.
+This notebook is designed to be run in Google Colab. Clicking the "Open in Colab" button at the top of this README will launch a Google Colaboratory environment in your browser. You can choose which notebook to open. If you do not see the notebook you are interested in, you may need to change the branch using the dropdown menu. You can open, run, and modify this notebook. You may also download this notebook from GitHub to your local machine and upload the notebook to your Google Colab account.
 
 You can also run this notebook from your local machine or in another notebook environment. Please read through the notebook before running in a different environment to determine if anything needs to be modified for the notebook to operate properly.
 

@@ -22,7 +22,7 @@ Follow the instructions in the readme for each product, located within each prod
 ## Usage
 Each product contains different usage instructions, which can be found in the product readme within their respective folder. Below we outline the three different methods that the codes may use.
 ### Colaboratory
-Clicking the "Open in Colab" button at the top of the product specific README will launch a Google Colaboratory environment in your browser. You can open, run, and modify any of the included Data Tour Notebooks. You can also download the .ipynb file and upload to Google Colab to run the notebook.
+Clicking the "Open in Colab" button at the top of each product specific README will launch a Google Colaboratory environment in your browser. You can choose which notebook to open. If you do not see the notebook you are interested in, you may need to change the branch using the dropdown menu. You can open, run, and modify this notebook. You may also download this notebook from GitHub to your local machine and upload the notebook to your Google Colab account.
 ### Binder
 Some of the Data Tour Notebooks may include a “Launch Binder” button at the top of the product specific README. In this environment, you can open, run, and modify the Data Tour Notebook, as well as create your own.
 ### Local Repository

@@ -1,4 +1,4 @@
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCEI-NOAAGov/data-tour-notebooks)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCEI-NOAAGov/data-tour-notebooks/blob/github/)
 # ADT-HURSAT Data Tour Notebook
 Python notebook for interacting with and visualizing the ADT-HURSAT dataset from the National Centers for Environmental Information (NCEI) using Python.
 
@@ -10,7 +10,7 @@ Furthermore, this notebook facilitates a comparison between ADT-HURSAT data and 
 The ADT-HURSAT product, which also provides direct data access via the [Google Cloud bucket](https://console.cloud.google.com/storage/browser/noaa-ncei-ipg/datasets/hursat/adt/), (a Google account is required to view this link) is available through the National Center for Environmental Information [NCEI](https://www.ncei.noaa.gov/products/advanced-dvorak-technique-hurricane-satellite).
 
 ## Usage
-This notebook is designed to be run in Google Colab. Clicking the "Open in Colab" button at the top of this README will launch a Google Colaboratory environment in your browser. You can open, run, and modify this notebook. You may also download this notebook from GitHub to your local machine and upload the notebook to your Google Colab account.
+This notebook is designed to be run in Google Colab. Clicking the "Open in Colab" button at the top of this README will launch a Google Colaboratory environment in your browser. You can choose which notebook to open. If you do not see the notebook you are interested in, you may need to change the branch using the dropdown menu. You can open, run, and modify this notebook. You may also download this notebook from GitHub to your local machine and upload the notebook to your Google Colab account.
 
 You can also run this notebook from your local machine or in another notebook environment. Please read through the notebook before running in a different environment to determine if anything needs to be modified for the notebook to operate properly.
 
